@@ -17,3 +17,5 @@ You play as a child evacuated from your home city in alternate-reality WWII Engl
 1. To start the game, enter `python3 playgame1.py`.
 2. When prompted with the `>` prompt, enter `new` to start a new game.
 3. At any point during gameplay, at the `>` prompt, enter `quit` to stop playing. You'll then have a chance to save your game.
+
+![gameplay screenshot](https://leslieyshen.com/cs/assets/images/projects/project-featured.png)
