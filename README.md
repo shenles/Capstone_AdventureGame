@@ -4,9 +4,9 @@ Misty Manor is a text-based command-line adventure game in the tradition of Zork
 You play as a child evacuated from your home city in alternate-reality WWII England and sent to stay in an isolated country manor. Confined to the estate, you begin to explore the house and its environs, and find that all is not as it seems - for a secret lurks within the manor that threatens everything you hold dear.
 
 ## Creators
-* Leslie Shen (shenles@oregonstate.edu)
-* Nicole Olson (olsonico@oregonstate.edu)
-* Coby Lee Hartman (hartmaco@oregonstate.edu)
+* Leslie Shen
+* Nicole Olson
+* Coby Lee Hartman
 
 ### Installation Instructions
 1. Be sure you have some version of Python 3 installed. You can check for this on a Mac by opening a Terminal window and entering `python3 --version`.
